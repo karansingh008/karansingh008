@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on **Real-Time Data Pipelines** and **Full Stack Development**.
 - 📚 I’m strongly focused on **Data Structures & Algorithms** (DSA).
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about **Java, Kotlin, and Web Technologies**.
 - ⚡ Fun fact: Coding is fun when you indulge into it.
 
 <h3 align="left">🛠️ Languages and Tools</h3>
